@@ -14,6 +14,14 @@ Email Me 👉 ✉️ **singhviprendra@gmail.com** For Collaboration/Project or A
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/viprendra-singh-300523326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biprendra kumar" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/singhviprendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="biprendra kumar" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/viprendrasingh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="viprendrasingh" height="30" width="40" /></a>
+</p>
+
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
